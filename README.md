@@ -2,7 +2,7 @@
 
 This repository accompanies [*Beginning Oracle Programming*](http://www.apress.com/9781590592861) by Sean Dillon, Christopher Beck, Thomas Kyte, Joel Kallman, and Howard Rogers (Apress, 2002).
 
-![Cover image](9781590592861.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
